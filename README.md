@@ -2,7 +2,7 @@
 
 💡 Realizado [cristiandpto23](https://github.com/cristiandpto23) con HTML y JS<br>
 ➡ Front-End G17 - Desafío Latam<br>
-🔗 Desplegado en Vercel [aquí]()<br>
+🔗 Desplegado en Vercel [aquí](https://desafio-firebase-dos.vercel.app/)<br>
 🔗 Desplegado en Firebase Hosting [aquí](https://fir-auth-11456.web.app/)<br>
 
 ## Introducción
